@@ -1,0 +1,12 @@
+streamlit==1.35.0
+numpy==1.26.4
+scipy==1.11.4
+pandas==2.2.2
+plotly==5.22.0
+wfdb==4.1.2
+mne==1.6.1
+requests==2.31.0
+scikit-learn==1.4.2
+neurokit2==0.2.7
+huggingface_hub[inference]>=0.33.0
+python-dotenv==1.0.1
